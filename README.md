@@ -1,0 +1,1 @@
+This repository demonstrates a common Python error: RecursionError in recursive functions. The `bug.py` file contains a factorial function that produces a RecursionError when given a negative input. The `bugSolution.py` file provides a corrected version that handles negative inputs gracefully.
